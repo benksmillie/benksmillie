@@ -1,6 +1,7 @@
 <img src="https://github.com/benksmillie/benksmillie/blob/master/IMG_0458.png?raw=true">
 ### Hi there 👋
 🔭 I’m currently working on building the best partner ecosystem possible.
+<img src="https://github.com/benksmillie/benksmillie/blob/master/mona-scene.gif?raw=true">
 
 <!--
 **benksmillie/benksmillie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
