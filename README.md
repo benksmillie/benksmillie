@@ -2,7 +2,7 @@
 ### Hi there 👋
 🔭 I’m currently working on building the best partner ecosystem possible.
 <img src="https://github.com/benksmillie/benksmillie/blob/master/mona-scene.gif?raw=true">
-
+credit @pifafu for awesome gif
 <!--
 **benksmillie/benksmillie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
