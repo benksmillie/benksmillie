@@ -2,6 +2,8 @@
 ### Hi there 👋
 🔭 I’m currently working on building the best partner ecosystem possible.
 
+check out [my GitHub page](https://benksmillie.github.io/benksmillie/)
+
 <!--
 **benksmillie/benksmillie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/benksmillie/benksmillie/blob/master/mona-scene.gif?raw=true">
