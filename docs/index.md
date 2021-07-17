@@ -1,13 +1,18 @@
-## Benjamin (Ben) Smillies GitHub Page
+# Benjamin (Ben) Smillies GitHub Page
 
 I just thought that I would build out a GitHub Pages site as a bit of a bio page but also to capture any ramblings that I feel like making... I promise not to get to political or technical and more celebrate things that I am interested in or thinking.
 
 ---------
+## Personal Bio
+I was born/grew up in a small country town in South Gippsland, Victoria Australia called Leongatha [Map](https://www.google.com/maps/place/Leongatha+VIC+3953/@-38.472043,145.9417539,13z/data=!4m2!3m1!1s0x6b2a272e74bc8381:0x40579a430a06260)
+
+---------
+## Professional CV
 
 
 
-
-
+----------
+## Markdown Guide
 You can use the [editor on GitHub](https://github.com/benksmillie/benksmillie/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
