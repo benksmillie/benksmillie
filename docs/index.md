@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benjamin (Ben) Smillies GitHub Page
 
 You can use the [editor on GitHub](https://github.com/benksmillie/benksmillie/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
