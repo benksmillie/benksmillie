@@ -1,5 +1,3 @@
-# Benjamin (Ben) Smillies GitHub Page
-
 I just thought that I would build out a GitHub Pages site as a bit of a bio page but also to capture any ramblings that I feel like making... I promise not to get to political or technical and more celebrate things that I am interested in or thinking.
 
 ---------
