@@ -3,7 +3,9 @@ I just thought that I would build out a GitHub Pages site as a bit of a bio page
 ---------
 ## Personal Bio
 I was born/grew up in a small country town in South Gippsland, Victoria Australia called Leongatha [Map](https://www.google.com/maps/place/Leongatha+VIC+3953/@-38.472043,145.9417539,13z/data=!4m2!3m1!1s0x6b2a272e74bc8381:0x40579a430a06260).
+
 Both of my parents were school teachers with mum being primary (grade 1-6) and dad Tech School Maths/Sci (year 11-12) and Tafe (Tertiary and Further Education) and some of my fondest memories as a kid are walking the halls of Leongatha Tech and checking out the computer room. At the time they had some awesome tape drives and I marvelled at the 8inch Floppy Drive Disks ([something like this](http://boginjr.com/it/hw/8inch-drives/)).
+At home i grew up (thanks to dad) with various home pcs, from the zx80 to Commodore64 through 286/386/486 PCs (some with turbo buttons).
 
 ---------
 ## Professional CV
