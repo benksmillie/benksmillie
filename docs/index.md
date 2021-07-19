@@ -10,7 +10,7 @@ At home i grew up (thanks to dad) with various home pcs, from the zx80 to Commod
 
 From the early days of playing Zork I was hooked on games and as the types of home computers progressed so did the games that I was playing. I still remember the drives to the Carribean Gardens to buy tape/disks and the excitement when something like Doom was released.
 
-
+But my passion for gaming really was amp'd whenever I went to Melbourne (to visit grandparents ) as there was a local video game arcade at the "Fun Factory". As a kid this was the best and felt like some kind of future reality where people could compete within virtual environments.
 
 ---------
 ## Professional CV
