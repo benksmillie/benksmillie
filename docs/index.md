@@ -14,7 +14,9 @@ But my passion for gaming really was amp'd whenever I went to Melbourne (to visi
 
 As my home PC's eveloved my passion for motorsport was also captured through various evolutions of Formula 1 and rally games. Almost every interest I had was also covered in a game from surfing and skateboarding (in california games) to basketball (NBA Jam).
 
-Games were not the only thing that my various comuters were used for and from using Logo in primary school (on commodore64) I had been programming. Also thanks again to my father we had a drafting pen plotter which was the most awesome way to connect my love for computers/programming with passion for drawing and design. Along with Corel Draw I was using Photoshop when released and other paint/drawing programs. Part of my year 12 art folio was a 256 color (maximum supported) shaded electronic painting that I actually took a photo of (analog) and had printed large at a photo lab as color printers were not capable at the time - circa 1992 (in rural victoria).
+Games were not the only thing that my various comuters were used for and from using Logo in primary school (on commodore64) I had been programming. Also thanks again to my father we had a drafting pen plotter which was the most awesome way to connect my love for computers/programming with passion for drawing and design. Along with Corel Draw I was using Photoshop when released and other paint/drawing programs. Part of my year 12 art folio was a 256 color (maximum supported) shaded electronic painting that I actually took a photo of (analog) and had printed large at a photo lab as color printers were not capable at the time - circa 1992 (in rural victoria). 
+
+It wasn't until University (RMIT studying Manufacturing Systems Engineering) that I became fully aware of Server Operating systems (like Windows NT) and full CAD systems (and engineering design). This only further drove me to explore 3d Studio Max and various animation programs.
 
 ---------
 ## Professional CV
