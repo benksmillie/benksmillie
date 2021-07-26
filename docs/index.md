@@ -20,7 +20,9 @@ It wasn't until University (RMIT studying Manufacturing Systems Engineering) tha
 
 ---------
 ## Professional CV
+Outside of cleaning windows and packing boxes at my home town pharmacy and working as a contract cleaner whilst in uni my first real job was over summer break whilst studying Manufacturing Systems Engineering at RMIT. I was fortunate to pick up a job as an electonic technician for a Pinball/Arcade Game/Jukebox Importer and distributor. As a childhood gamer this was right up my alley and spent many many hours on the systems either repairing or playing. I loved tearing down and restoring pinball machines and the mix of analog and evolving digital (monochrome led displays) was somehting better than simply one or the other. As one of 2 importers of Arcade systems we were kept quite busy converting and configuring games through the golden years of Sega through Daytona to World Rally to Manx TT.
 
+I ended up getting a role as a field service technician for a large Arcade and Jukebox company which was great as it got me out of the workshop/office and on the road installing and repairing. I travelled through most of Melbourne and country Victoria visiting pubs and nightclubs (during the day) rocking a pager and early mobile phones (Nokia 5110).
 
 
 ----------
