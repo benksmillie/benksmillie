@@ -1,6 +1,12 @@
 <img src="https://github.com/benksmillie/benksmillie/blob/master/IMG_0458.png?raw=true">
 ### Hi there 👋
-🔭 I'm currently working on building the best partner ecosystem possible.
+---
+As a strategic partner to leading organizations, I work hand-in-hand with GitHub and our ecosystem to turbocharge digital transformation—helping teams build faster, smarter, and more securely (without breaking a sweat… or the build). Together, we’re moving beyond code completion to orchestrate end-to-end outcomes, embedding AI and governance at every step of the SDLC—because shipping chaos is so last season.
+
+With a developer-first mindset, enterprise-grade controls, and a knack for making innovation feel effortless, I empower partners to scale AI confidently and turn business objectives into real impact. Think of me as your co-pilot on this journey: part engine, part pit crew, and occasionally the brakes—ensuring your teams race ahead with speed and control (and maybe a few fewer coffee-fueled late nights). Let’s build the future together—no assembly required.
+
+---
+#### written by GitHub Copilot using GPT-4.1
 
 ## 🎮 ASCII Pacman Game
 ```
