@@ -1,7 +1,5 @@
 <img width="590" height="896" alt="benksmillie-quest@0 16x" src="https://github.com/user-attachments/assets/1b7f2008-8381-49c8-a5f8-9e84a495c866" />
 
-
-<img src="https://github.com/benksmillie/benksmillie/blob/master/IMG_0458.png?raw=true">
 ### Hi there 👋
 ---
 
