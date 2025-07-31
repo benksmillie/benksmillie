@@ -1,12 +1,20 @@
 <img src="https://github.com/benksmillie/benksmillie/blob/master/IMG_0458.png?raw=true">
 ### Hi there 👋
 ---
-As a strategic partner to leading organizations, I work hand-in-hand with GitHub and our ecosystem to turbocharge digital transformation—helping teams build faster, smarter, and more securely (without breaking a sweat… or the build). Together, we’re moving beyond code completion to orchestrate end-to-end outcomes, embedding AI and governance at every step of the SDLC—because shipping chaos is so last season.
 
-With a developer-first mindset, enterprise-grade controls, and a knack for making innovation feel effortless, I empower partners to scale AI confidently and turn business objectives into real impact. Think of me as your co-pilot on this journey: part engine, part pit crew, and occasionally the brakes—ensuring your teams race ahead with speed and control (and maybe a few fewer coffee-fueled late nights). Let’s build the future together—no assembly required.
+I partner with GitHub's ecosystem to help organizations navigate the AI revolution in software development—because let's face it, the future waits for no one (and neither do deployment deadlines). Together, we're transforming how teams build, from "just shipping code" to orchestrating entire AI-powered workflows that would make even the most caffeinated developer jealous.
+
+My mission? Helping partners unlock the full potential of AI across the SDLC while keeping the guardrails intact—because acceleration without control is just expensive chaos. Whether it's enabling developers to delegate to AI agents, embedding governance at every layer, or ensuring teams can scale from 10 to 10,000 developers without breaking a sweat (or the build), I'm here to make digital transformation feel less like rocket science and more like... well, GitHub.
+
+Think of me as your strategic co-pilot: part technologist, part translator, and occasionally the voice reminding everyone that the other 80% of development (planning, securing, governing) matters just as much as writing code. Because in this new era where AI agents are becoming the #1 contributors to codebases, someone needs to help partners harness that power responsibly—and profitably.
+
+Ready to build the future together? Let's turn your AI ambitions into business impact, one pull request at a time.
 
 ---
-#### written by GitHub Copilot using GPT-4.1
+
+#### written by GitHub Copilot using Claude Opus 4 - https://github.com/copilot
+
+
 
 ## 🎮 ASCII Pacman Game
 ```
