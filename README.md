@@ -1,4 +1,5 @@
-<img width="590" height="896" alt="benksmillie-quest@0 16x" src="https://github.com/user-attachments/assets/1b7f2008-8381-49c8-a5f8-9e84a495c866" />
+<img width="627" height="953" alt="benksmillie-quest@0 17x" src="https://github.com/user-attachments/assets/39f867a1-2bcf-4e46-b92e-2dee738692cc" />
+
 
 ### Hi there 👋
 ---
@@ -66,8 +67,6 @@ Score: 1337 🏆    Lives: ❤️❤️❤️    Level: GitHub
 *Use your imagination to move Pacman around and chomp those dots! 🎮*
 
 check out [my GitHub page](https://benksmillie.github.io/benksmillie/)src="https://github.com/benksmillie/benksmillie/blob/master/IMG_0458.png?raw=true">
-### Hi there 👋
-🔭 I’m currently working on building the best partner ecosystem possible.
 
 check out [my GitHub page](https://benksmillie.github.io/benksmillie/)
 
