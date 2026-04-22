@@ -25,6 +25,19 @@ Outside of cleaning windows and packing boxes at my home town pharmacy and worki
 
 I ended up getting a role as a field service technician for a large Arcade and Jukebox company which was great as it got me out of the workshop/office and on the road installing and repairing. I travelled through most of Melbourne and country Victoria visiting pubs and nightclubs (during the day) rocking a pager and early mobile phones (Nokia 5110).
 
+### Enterprise Architecture & Cloud
+
+From the hands-on world of arcade hardware I transitioned into enterprise technology, eventually taking on the role of **Cognitive and Cloud Architect at Cognition** where I worked across cloud-native architectures and early AI/cognitive computing initiatives. This laid the foundation for a deep focus on how emerging technologies reshape the way organisations build and deliver software.
+
+I then joined **Salesforce** as a **Principal Enterprise Architect**, leading strategic architecture initiatives across product, engineering, and security teams. The role centred on modernisation, scalability, and driving alignment between business strategy and technical execution at enterprise scale.
+
+### GitHub — Technical Partner Lead (APAC)
+
+Today I serve as **Technical Partner Lead for APAC at GitHub**, where I partner with GitHub's ecosystem to help organisations navigate the AI revolution in software development. My mission is helping partners unlock the full potential of AI across the software development lifecycle while embedding governance, ensuring scalability, and enabling responsible acceleration.
+
+Think of me as a strategic co-pilot — part technologist, part translator — helping partners harness a world where AI agents are becoming first-class contributors to codebases. Whether it's enabling developers to delegate to AI agents, embedding governance at every layer, or ensuring teams can scale from 10 to 10,000 developers without breaking the build, I'm here to make digital transformation practical and impactful.
+
+📍 Based between **Adelaide** and **Melbourne** | 🌏 Frequent flyer across APAC and beyond
 
 ----------
 ## Markdown Guide
